@@ -1,0 +1,18 @@
+{
+  "name": "@meraj_its_official/blog-common",
+  "version": "1.0.3",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "dist"
+  ],
+  "keywords": [],
+  "types": "dist/index.d.ts",
+  "dependencies": {
+    "@types/node": "^26.6.2",
+    "zod": "^4.6.5"
+  }
+}
